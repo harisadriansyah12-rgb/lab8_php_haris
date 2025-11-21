@@ -122,7 +122,8 @@ die();
 Lalu tinggal tambah gambar handphone yang sesuai nama file `jpg`
 ### hasilnya
 
-<img width="953" height="541" alt="image" src="https://github.com/user-attachments/assets/28f54da7-63af-4bd0-b0bc-3e24bffffe9e" />
+<img width="1099" height="615" alt="Cuplikan layar 2025-11-21 002608" src="https://github.com/user-attachments/assets/e6b8a832-f6f3-4e9a-865f-1afc2be92ab3" />
+
 
 Tambah kode `tambah.php`
 ```python
@@ -357,4 +358,4 @@ exit;
 ```
 ### hasil akhir
 
-<img width="958" height="508" alt="image" src="https://github.com/user-attachments/assets/66f96c89-f1c7-4972-bd48-8b09f9478821" />
+<img width="1099" height="615" alt="Cuplikan layar 2025-11-21 002608" src="https://github.com/user-attachments/assets/ae7f027c-8bfe-4970-9b8b-cc346dba16a2" />
